@@ -1,5 +1,3 @@
-# Shuashab
-🎓 BSIT student and Unity Game Developer creating 2D/3D games with C#.
 <p align="center">
   <img src="animated-banner.gif" alt="Game Developer Banner" width="100%" />
 </p>
