@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="animated-banner.gif" alt="Game Developer Banner" width="100%" />
+  <img src="unity-animated-banner.gif" alt="Game Developer Banner" width="100%" />
 </p>
 
 # 👋 Hi there, I'm **Shua-ul-Qamar Ali Shah**  
